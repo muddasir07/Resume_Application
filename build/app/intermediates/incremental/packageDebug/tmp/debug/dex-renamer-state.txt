@@ -1,0 +1,4 @@
+#Wed Jan 24 13:36:02 GMT-08:00 2024
+base.0=E\:\\RapidPay\\Flutter\\muddasir_portfolio_application\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
